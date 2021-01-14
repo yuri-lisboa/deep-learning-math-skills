@@ -2,10 +2,14 @@
 name = "deep-learning-math-skills"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Yuri Lisboa <yurilisboadasilva@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+matplotlib = "^3.3.3"
+seaborn = "^0.11.1"
+numpy = "^1.19.5"
+pandas = "^1.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
